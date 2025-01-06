@@ -42,3 +42,10 @@ orderfood("pizza", eatfood)
 
 hello
 
+<<<<<<< HEAD
+orderfood("pizza", eatfood)
+=======
+orderfood("pizza", eatfood)
+
+
+hello
