@@ -34,4 +34,11 @@ function eatfood() {
     console.log("time to eat");
 }
 
+<<<<<<< HEAD
 orderfood("pizza", eatfood)
+=======
+orderfood("pizza", eatfood)
+
+
+hello
+
